@@ -28,6 +28,6 @@ License
 This project is licensed under the MIT License.
 Contact
 For any questions or issues, please contact the project maintainers:
-Madol Abraham Kuol: <m.madol@alustudent.com
-chrisos: <>
+Madol Abraham Kuol: <m.madol@alustudent.com>
+Jean Chrisostome Dufitumukiza: <j.dufitumuk@gmail.com>
 
